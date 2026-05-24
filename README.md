@@ -53,5 +53,6 @@ Busco oportunidades de aprendizaje, prácticas y proyectos donde pueda crecer y 
 
 ## 🌐 Mis redes  
 🔗 **GitHub:** https://github.com/AliciaMadridGalarza
+🔗 **GitLab:** [https://github.com/AliciaMadridGalarza](https://gitlab.com/AliciaMadridGalarza)
 
 ---
