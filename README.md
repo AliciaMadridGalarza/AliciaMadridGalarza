@@ -19,7 +19,7 @@ Me encanta aprender, mejorar y rodearme de tecnología bonita y bien hecha.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,mongodb,spring&perline=7" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Me encanta aprender, mejorar y rodearme de tecnología bonita y bien hecha.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,docker,postman,linux,git,github,gitlab&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,docker,postman,linux,git,github,gitlab&perline=8" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Me encanta aprender, mejorar y rodearme de tecnología bonita y bien hecha.
 
 ## 🌟 Proyectos destacados
 
-### 🖥️ [API - Sistema de Gestión Informático](https://github.com/AliciaMadridGalarza)
+### 🖥️ [API - Sistema de Gestión Informático]([https://github.com/AliciaMadridGalarza](https://github.com/AliciaMadridGalarza/inventario-api))
 > API REST para la gestión de inventario de un sistema informático.
 
 Backend organizado por capas, con operaciones CRUD y probado con Postman. Realizado en las prácticas de 1DAW.
