@@ -70,16 +70,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo web y construyendo pr
 
 Durante mis prácticas desarrollé una **API REST utilizando Spring Boot**, poniendo en práctica los conocimientos adquiridos durante el primer curso de DAW.
 
-#### Funcionalidades
-
-* ✅ Creación de endpoints REST.
-* ✅ Operaciones CRUD completas.
-* ✅ Persistencia de datos con MySQL.
-* ✅ Arquitectura organizada por capas.
-* ✅ Gestión de peticiones y respuestas HTTP.
-* ✅ Pruebas de endpoints utilizando Postman.
-* ✅ Control de versiones mediante Git y GitHub.
-
 #### Tecnologías utilizadas
 
 <p>
@@ -92,30 +82,11 @@ Durante mis prácticas desarrollé una **API REST utilizando Spring Boot**, poni
 
 ---
 
-## 📚 Actualmente aprendiendo
-
-* Desarrollo Full Stack.
-* Arquitecturas para APIs REST.
-* Buenas prácticas de programación.
-* Frameworks modernos de Frontend.
-* Optimización y mantenimiento de aplicaciones web.
-
----
-
-## 🎯 Objetivos
-
-* Convertirme en desarrolladora Full Stack.
-* Participar en proyectos profesionales.
-* Continuar formándome en tecnologías Java y Spring.
-* Seguir aprendiendo nuevas herramientas y metodologías.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliciaMadridGalarza&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaMadridGalarza&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados">
 </p>
 
 ---
