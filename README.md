@@ -85,8 +85,7 @@ Durante mis prácticas desarrollé una **API REST utilizando Spring Boot**, poni
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliciaMadridGalarza&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaMadridGalarza&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados">
+  <img src="https://streak-stats.demolab.com/?user=AliciaMadridGalarza&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ---
