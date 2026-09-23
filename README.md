@@ -31,17 +31,12 @@ Actualmente sigo ampliando mis conocimientos en desarrollo web y construyendo pr
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🎨 Frontend
+### 🎨 Frontend - ⚙️ Backend
 
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="45" alt="HTML5">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="45" alt="CSS3">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="45" alt="JavaScript">
-</p>
-
-### ⚙️ Backend
-
-<p>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="45" alt="Java">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="45" alt="Spring Boot">
 </p>
