@@ -59,12 +59,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo web y construyendo pr
 
 ---
 
-## 📂 Proyecto destacado
-
-### 🔥 API REST con Spring Boot
-
-Durante mis prácticas desarrollé una **API REST utilizando Spring Boot**, poniendo en práctica los conocimientos adquiridos durante el primer curso de DAW.
-
 #### Tecnologías utilizadas
 
 <p>
