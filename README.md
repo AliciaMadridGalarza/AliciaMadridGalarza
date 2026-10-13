@@ -29,48 +29,6 @@ Actualmente sigo ampliando mis conocimientos en desarrollo web y construyendo pr
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-
-### 🎨 Frontend - ⚙️ Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="45" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="45" alt="CSS3">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="45" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="45" alt="Java">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="45" alt="Spring Boot">
-</p>
-
-### 🗄️ Bases de Datos
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="45" alt="MySQL">
-</p>
-
-### 🔧 Herramientas
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="45" alt="Git">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="45" alt="GitHub">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="Postman">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="45" alt="Visual Studio Code">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="45" alt="IntelliJ IDEA">
-</p>
-
----
-
-#### Tecnologías utilizadas
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="45" alt="Java">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="45" alt="Spring Boot">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="45" alt="MySQL">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="Postman">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="45" alt="Git">
-</p>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
